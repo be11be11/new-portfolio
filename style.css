@@ -3,9 +3,9 @@
 @media screen and (max-width:275px){  
 div.frex-area {border:5px solid green; width: 100%; height: 100%; box-sizing: border-box; display: flex; flex-wrap: wrap; background-image: url("DSC01833.JPG"); background-size:cover; background-repeat: no-repeat; }
 
-div.textA {border:5px solid yellow; box-sizing: border-box; width: 95%; height: 11.5vh; display: flex; text-align: left; margin-top: 13%; margin-left: 0.2; padding-right: 0; overflow-wrap: break-word;font-family: Georgia; color: white; font-size: 6.75vw; letter-spacing: 0.1em; line-height: 1.75; font-weight: 530; } 
+div.textA {border:5px solid yellow; box-sizing: border-box; width: 95%; height: 11.5vh; display: flex; margin-top: 13%; margin-left: 0.5%; padding-right: 0; overflow-wrap: break-word;font-family: Georgia; color: white; font-size: 6.75vw; letter-spacing: 0.1em; line-height: 1.75; font-weight: 530; } 
 
-div.box {border:5px solid red; width: 95vw; height: 70vh; box-sizing: border-box; display: flex; justify-content: flex-end; flex-wrap: wrap; flex-direction: column; padding-top: 2%; padding-right: 0;} 
+div.box {border:5px solid red; width: 95vw; height: 70vh; box-sizing: border-box; display: flex; flex-wrap: wrap; flex-direction: column; padding-top: 2%; padding-right: 0;} 
 div.text1 {border:5px solid aqua; box-sizing: border-box; width: 95%; height: 13.5vh; display: flex; padding-top: 1.5%; padding-left: 0.5%; font-family: Georgia; color: white; font-size: 6.75vw; letter-spacing: 0.1em; line-height: 1.75; font-weight: 530; text-align: center; }
 div.text2 {border:5px solid pink; box-sizing: border-box; width: 60%; height: 30vh; display: flex; flex-direction: column; padding-top: 1%; padding-left: 0.5%; margin-top: 2%;font-family: serif; color: blueviolet;font-size: 6vw; letter-spacing: 0.175em; line-height: 1.75; font-weight: 400; text-align: center; }
 
@@ -14,9 +14,9 @@ div.text2 {border:5px solid pink; box-sizing: border-box; width: 60%; height: 30
 @media screen and (min-width:276px) and (max-width:500px){
 div.frex-area {border:5px solid green; width: 100%; height: 100%; box-sizing: border-box; display: flex; flex-wrap: wrap; background-image: url("DSC01833.JPG"); background-size:cover; background-repeat: no-repeat; }
 
-div.textA {border:5px solid yellow; box-sizing: border-box; width: 95%; height: 11.5vh; display: flex; text-align: left; margin-top: 13%; margin-left: 0.2; padding-right: 0; overflow-wrap: break-word;font-family: Georgia; color: white; font-size: 6.75vw; letter-spacing: 0.1em; line-height: 1.75; font-weight: 530; } 
+div.textA {border:5px solid yellow; box-sizing: border-box; width: 95%; height: 11.5vh; display: flex; margin-top: 13%; margin-left: 0.5%; padding-right: 0; overflow-wrap: break-word;font-family: Georgia; color: white; font-size: 6.75vw; letter-spacing: 0.1em; line-height: 1.75; font-weight: 530; } 
 
-div.box {border:5px solid red; width: 95vw; height: 70vh; box-sizing: border-box; display: flex; justify-content: flex-end; flex-wrap: wrap; flex-direction: column; padding-top: 2%; padding-right: 0;} 
+div.box {border:5px solid red; width: 95vw; height: 70vh; box-sizing: border-box; display: flex; flex-wrap: wrap; flex-direction: column; padding-top: 2%; padding-right: 0;} 
 div.text1 {border:5px solid aqua; box-sizing: border-box; width: 95%; height: 13.5vh; display: flex; padding-top: 1.5%; padding-left: 0.5%; font-family: Georgia; color: white; font-size: 6.75vw; letter-spacing: 0.1em; line-height: 1.75; font-weight: 530; text-align: center; }
 div.text2 {border:5px solid pink; box-sizing: border-box; width: 60%; height: 30vh; display: flex; flex-direction: column; padding-top: 1%; padding-left: 0.5%; margin-top: 2%;font-family: serif; color: blueviolet;font-size: 6vw; letter-spacing: 0.175em; line-height: 1.75; font-weight: 400; text-align: center; }
 
